@@ -1,4 +1,3 @@
-import java.rmi.server.SocketSecurityException;
 import java.util.Scanner;
 
 public class NumbersPatterns{
@@ -50,4 +49,5 @@ public class NumbersPatterns{
 
     }
 }
+
 
